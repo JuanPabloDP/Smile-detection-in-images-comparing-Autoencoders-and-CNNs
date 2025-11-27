@@ -1,0 +1,26 @@
+Smiles Dataset.
+
+This dataset consists of two parts:
+
+1.- labels.
+2.- image files.
+
+1: The labels are included in two files: SMILE_list.txt and NON-SMILE_list.txt.
+Each file contains the image file names of the smile and non-smiles pictures.
+
+The labels files were made available by Olasimbo Arigbabu (https://data.mendeley.com/datasets/yz4v8tb3tp/5).
+
+2: The actual image files can be downloaded from: http://conradsanderson.id.au/lfwcrop/
+
+Please, download the color version lfwcrop_color.zip. Extract and copy all the ppm files into the 'faces/' directory.
+
+For more information about the images dataset see the README.txt file in this directory.
+
+References of the label files:
+
+Arigbabu, Olasimbo Ayodeji, et al. "Smile detection using hybrid face representation." Journal of Ambient Intelligence and Humanized Computing (2016): 1-12.
+
+C. Sanderson, B.C. Lovell. Multi-Region Probabilistic Histograms for Robust and Scalable Identity Inference.
+ICB 2009, LNCS 5558, pp. 199-208, 2009
+
+Huang GB, Mattar M, Berg T, Learned-Miller E (2007) Labeled faces in the wild: a database for studying face recognition in unconstrained environments. University of Massachusetts, Amherst, Technical Report
