@@ -201,7 +201,6 @@ Lindsay_Lohan_0001.jpg
 Lionel_Hampton_0001.jpg
 Lisa_Ling_0001.jpg
 Lisa_Marie_Presley_0003.jpg
-listt.txt
 Liu_Mingkang_0002.jpg
 Liu_Xiaoqing_0001.jpg
 Liv_Tyler_0001.jpg
@@ -527,7 +526,6 @@ Sila_Calderon_0004.jpg
 Silvio_Berlusconi_0009.jpg
 Silvio_Berlusconi_0017.jpg
 Sinead_OConnor_0001.jpg
-SMILE_list.txt
 Sophia_Loren_0005.jpg
 Spike_Jonze_0001.jpg
 Stacy_Dragila_0001.jpg
